@@ -1,8 +1,6 @@
 Table of Content
 ---
 
-# Table of Contents
-
 - [Reproducible Research](#reproducible-research)
   - [Reproducibility from Bench to Code: *B2C*](#reproducibility-from-bench-to-code-b2c)
 - [Project Management](#project-management)
