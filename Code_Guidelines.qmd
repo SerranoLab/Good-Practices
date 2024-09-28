@@ -1,3 +1,10 @@
+---
+title: "Bioinformatic Workflow SOP"
+subtitle: "Guidelines for transparent, reproducible and accessible bioinformatic reporting for scientific research" 
+author: "Serrano Lab" 
+format: PrettyPDF-pdf
+---
+
 # Reproducible Research
 
 ## Reproducibility from bench to code: *B2C*
