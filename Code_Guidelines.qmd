@@ -157,7 +157,7 @@ project/
 -   A lab book is a **requirement** for both in-lab and in-silico experiments to ensure completeness in research documentation.
 -   **Never use a GUI**
     -   Ever
-    -   But, if for some kind *Meteor hits the Earth* situation you had to edit your table in Excel or similar (guilty of charge), please always keep the raw data as exported/generated in a dedicated folder. And please, for the love of code, comment appropiatly in your markdowm/quarto so your future self (and the rest of human kind) can understand what's going on. Something as simple as `fsom_01` to `fsom01` can cost you hours of debugging (Learned this the hard way).
+    -   But, if for some kind *Meteor hits the Earth* situation you had to edit your table in Excel or similar (guilty of charge), please always keep the raw data as exported/generated in a dedicated folder. And please, for the love of code, comment appropriately in your markdowm/quarto so your future self (and the rest of human kind) can understand what's going on. Something as simple as `fsom_01` to `fsom01` can cost you hours of debugging (Learned this the hard way).
 -   **Analytic code must be version controlled**
     -   Version control is the practice of tracking and managing changes to code over time. GitHub is the preferred platform for version control.
     -   This provides digitally verified copies of the analysis with dates recorded

@@ -1,3 +1,32 @@
+Table of Content
+---
+
+# Table of Contents
+
+- [Reproducible Research](#reproducible-research)
+  - [Reproducibility from Bench to Code: *B2C*](#reproducibility-from-bench-to-code-b2c)
+- [Project Management](#project-management)
+  - [Reproducing the Data Analysis with `renv`](#reproducing-the-data-analysis-with-renv)
+  - [Work in Self-Contained Projects](#work-in-self-contained-projects)
+  - [Avoid the `setw()` Nightmare](#avoid-the-setw-nightmare)
+- [Coding Practices](#coding-practices)
+  - [Write Code for People, Not Computers](#write-code-for-people-not-computers)
+  - [Always Use Version Control](#always-use-version-control)
+  - [Error Handling](#error-handling)
+- [Data Management](#data-management)
+  - [Data Integrity](#data-integrity)
+  - [Metadata and Study Design are Important](#metadata-and-study-design-are-important)
+- [Research Collaborations](#research-collaborations)
+- [Record Keeping](#record-keeping)
+- [Lab Preferred Approaches](#lab-preferred-approaches)
+  - [Statistical and General Data Analysis](#statistical-and-general-data-analysis)
+  - [Version Control](#version-control)
+- [References and Further Reading](#references-and-further-reading)
+
+---
+
+This TOC can help users navigate through the sections of your README more easily. Let me know if you need any changes!
+
 # Reproducible Research
 
 ## Reproducibility from bench to code: *B2C*
@@ -150,7 +179,7 @@ project/
 -   A lab book is a **requirement** for both in-lab and in-silico experiments to ensure completeness in research documentation.
 -   **Never use a GUI**
     -   Ever
-    -   But, if for some kind *Meteor hits the Earth* situation you had to edit your table in Excel or similar (guilty of charge), please always keep the raw data as exported/generated in a dedicated folder. And please, for the love of code, comment appropiatly in your markdowm/quarto so your future self (and the rest of human kind) can understand what's going on. Something as simple as `fsom_01` to `fsom01` can cost you hours of debugging (Learned this the hard way).
+    -   But, if for some kind *Meteor hits the Earth* situation you had to edit your table in Excel or similar (guilty of charge), please always keep the raw data as exported/generated in a dedicated folder. And please, for the love of code, comment appropriately in your markdowm/quarto so your future self (and the rest of human kind) can understand what's going on. Something as simple as `fsom_01` to `fsom01` can cost you hours of debugging (Learned this the hard way).
 -   **Analytic code must be version controlled**
     -   Version control is the practice of tracking and managing changes to code over time. GitHub is the preferred platform for version control.
     -   This provides digitally verified copies of the analysis with dates recorded
